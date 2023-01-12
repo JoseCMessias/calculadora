@@ -1,0 +1,15 @@
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\bin\Debug\net6.0\Uma-Calculadora-Diferente.exe
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\bin\Debug\net6.0\Uma-Calculadora-Diferente.deps.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\bin\Debug\net6.0\Uma-Calculadora-Diferente.runtimeconfig.json
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\bin\Debug\net6.0\Uma-Calculadora-Diferente.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\bin\Debug\net6.0\Uma-Calculadora-Diferente.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.csproj.AssemblyReference.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.AssemblyInfoInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.AssemblyInfo.cs
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.csproj.CoreCompileInputs.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\refint\Uma-Calculadora-Diferente.dll
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.pdb
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\Uma-Calculadora-Diferente.genruntimeconfig.cache
+C:\Users\IATR\OneDrive\Área de Trabalho\PASTA DE PROJETOS\Uma-Calculadora-Diferente\obj\Debug\net6.0\ref\Uma-Calculadora-Diferente.dll
