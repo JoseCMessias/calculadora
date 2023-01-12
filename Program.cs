@@ -4,14 +4,14 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Digite o primeiro valor");
-        var a = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        var a = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
         Console.WriteLine("Digite o segundo valor");
-        var b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        System.Console.WriteLine("Digite a operação ( + ou - ou * ou / )");
+        var b = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        Console.WriteLine("Digite a operação ( + ou - ou * ou / )");
         var s = Console.ReadLine();
 
 
-        Func<double, double, double> func = null;
+        Func<float, float, float> func = null;
         switch (s)
         {
             case "+":
@@ -33,9 +33,9 @@ public class Program
         Console.WriteLine($"Resultado = {resultado.ToString("F2", CultureInfo.InvariantCulture)}");
 
     }
-    static double Somar(double a, double b) => a + b;
-    static double Subtracao(double a, double b) => a - b;
-    static double Multiplicacao(double a, double b) => a * b;
-    static double Divisao(double a, double b) => a / b;
-    static double Calcular(Func<double, double, double> func, double a, double b) => func(a, b);
+    static float Somar(float a, float b) => a + b;
+    static float Subtracao(float a, float b) => a - b;
+    static float Multiplicacao(float a, float b) => a * b;
+    static float Divisao(float a, float b) => a / b;
+    static float Calcular(Func<float, float, float> func, float a, float b) => func(a, b);
 }
